@@ -1,17 +1,34 @@
-# ✈️ Airluxi - Aviation & Flight Simulation Hub
+# ✈️ Airluxi Virtual Airline
 
-Personal aviation & flight simulation website
+Welcome to the official repository of **Airluxi Virtual Airline**
 
 ---
 
-### 🌐 Live Website
-Check out the live site: **[airluxi.dpdns.org](https://airluxi.dpdns.org)**
+## 🌐 Official Website
+Visit our home page: **[airluxi.dpdns.org](https://airluxi.dpdns.org)**
 
-### 📖 About This Project
-Airluxi is my personal aviation-themed website dedicated to sharing my passion for flight simulation.
-Here you can find:
-- ✈️ Custom aircraft liveries (including Boeing 737 series)
-- 🛫 X-Plane tutorials and resources
-- 📝 Flight logs and personal aviation projects
+---
 
-This repository contains the source code for the website, built with Python Flask.
+## 📖 About Us
+Airluxi is a community-driven virtual airline built for flight simulation enthusiasts.
+We bring together pilots from around the world to share our passion for aviation, realism, and teamwork.
+
+We offer:
+- ✈️ Realistic virtual airline operations
+- 📅 Scheduled routes and fleet operations
+- 🛫 Pilot recruitment & training
+- 📝 Flight logging and community events
+- 🎨 Custom aircraft liveries and fleet support
+
+Whether you are a new pilot or an experienced simmer, you are welcome to join us and grow with our community.
+
+---
+
+## 🤝 Join Our Team
+If you want to become part of the Airluxi family:
+1. Visit our website and complete the pilot registration
+2. Read our operations guide and pilot handbook
+3. Connect with us on GitHub Discussions for help and updates
+
+We are always looking for passionate pilots, developers, and content creators.
+✈️ Enjoy flying with Airluxi? Give us a star on GitHub to help our airline grow!
